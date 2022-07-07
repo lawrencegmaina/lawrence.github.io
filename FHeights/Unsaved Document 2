@@ -1,0 +1,73 @@
+body{
+background-color:brown;
+color:black;
+
+}
+.logodiv{
+width:150px;
+height:50px;
+float: left;
+background-color: blue;
+
+}
+.topnav{
+background-color: #808080;
+overflow:hidden;
+}
+.topnav a{
+float: left;
+color: red;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+.topnav a:hover{
+background-color: blue;
+color: black;
+}
+.topnav a.active{
+background-color: #brown;
+color: white;
+}
+
+.bannerdiv{
+width:1400px;
+height:450px;
+margin:0 auto;
+margin-top:20px;
+margin-left:20px;
+
+}
+
+.boxone{
+float:left;
+margin-left:35px;
+
+
+}
+
+.boxtwo{
+float:left;
+margin-left:40px;
+}
+
+.boxthree{
+float:left;
+margin-left:40px;
+}
+
+.btnview{
+background-color:yellow;
+padding: 15px 20px;
+
+}
+
+.conta{
+width:1440px;
+height:100%;
+background-color: #808000;
+margin: 0 auto;
+}
+
+

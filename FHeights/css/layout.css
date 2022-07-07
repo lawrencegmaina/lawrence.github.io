@@ -1,0 +1,114 @@
+body{
+background-color: #EEEEEE;
+margin:0 auto;
+}
+
+li{
+display:inline;
+
+}
+ul{
+background-color: #00ADB5;
+height:40px;
+width:1240px;
+float: left;
+
+}
+
+h1{
+margin-top:25px;
+}
+
+a{
+padding:15px;
+color:#364652;
+text-decoration:none;
+float: left;
+}
+ul li:hover {
+color: black;
+
+}
+
+.conta{
+width:1440px;
+height:100%;
+margin: 0 auto;
+}
+.banner{
+width:1000px
+height:350px}
+
+.loginform{
+background-color: aqua;
+margin: 0 auto;
+}
+
+.boxone{
+float:left;
+margin-left:40px;
+margin-top:40px;
+padding:10px;
+width: 350px;
+height: 400px;
+
+}
+
+
+.boxtwo{
+float:left;
+margin-left:45px;
+margin-top:40px;
+padding:10px;
+width: 350px;
+height: 400px;
+}
+
+.boxthree{
+float:left;
+margin-left:45px;
+margin-top:40px;
+padding:10px;
+width: 350px;
+height: 400px;
+}
+
+.boxfour{
+float:left;
+margin-left:40px;
+margin-top:40px;
+padding:10px;
+width: 350px;
+height: 400px;
+}
+
+.boxfive{
+float:left;
+margin-left:45px;
+margin-top:40px;
+padding:10px;
+width: 350px;
+height: 400px;
+}
+
+.boxsix{
+float:left;
+margin-left:45px;
+margin-top:40px;
+padding:10px;
+width: 350px;
+height: 400px;
+}
+p{
+text-align:justify;
+
+}
+.li{
+color: #40514E;
+}
+
+.containerhold{
+width: 1440px;
+height: 100%;
+margin: 0 auto;
+}

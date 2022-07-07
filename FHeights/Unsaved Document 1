@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+<div class="conta">
+
+
+    <div class="logodiv">
+        <img src="images/Untitled.png">
+
+
+    </div>
+    <div class="topnav">
+        <a class="active"
+           href="#Home">Home</a>
+        <a href="#news">News</a>
+        <a href="#contact">Contact</a>
+        <a href="#about">About</a>
+
+    </div>
+
+
+    <div class="banner">
+        <img src="images/banner.jpg">
+    </div>
+
+
+    <div class="boxone">
+        <h3>IPHONE</h3>
+        <img src="images/box1.png">
+
+        <p>Communication Authority of Kenya</p>
+        <button class="btnview">Click Here</button>
+
+    </div>
+
+    <div class="boxtwo">
+        <h3>SAMSUNG</h3>
+        <img src="images/box1.png">
+
+        <p>Communication Authority of Kenya</p>
+        <button class="btnview">Click Here</button>
+    </div>
+
+    <h3>ONEPLUS</h3>
+    <img src="images/box1.png">
+    <p>Communication Authority of Kenya</p>
+    <button class="btnview">Click Here</button>
+
+
+</div>
+
+</body>
+</html>
